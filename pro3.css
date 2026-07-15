@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+
+.profile-card{
+    width:420px;
+    border-radius:20px;
+}
+
+#output{
+    font-size:18px;
+    line-height:35px;
+}
